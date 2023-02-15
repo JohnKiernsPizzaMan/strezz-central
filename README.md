@@ -1,3 +1,4 @@
+# i reuplaoded this from my old account so i could use an old client
 # Strezz-central
 A fork of strezz-central so that I can add libraries i want.
 
